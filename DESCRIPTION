@@ -1,0 +1,9 @@
+Package: carSignal
+Type: Package
+Title: carSignal
+Version: 0.1.0
+Author: José Luis Jara
+Maintainer: cristobal.vasquez@usach.cl <cristobal.vasquez@usach.cl>
+Description: Funciones para el tratamiento de señales.
+LazyData: TRUE
+RoxygenNote: 5.0.1
